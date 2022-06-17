@@ -1,5 +1,4 @@
 
-
 import Container from './components/Container';
 import Heading from './components/Heading';
 import StarComponent from './components/StarComponent';
@@ -8,9 +7,6 @@ import Button from './components/Button';
 
 
 function App() {
-
-  
-
 
   const handleClick = (event) =>{
     console.log(event);
